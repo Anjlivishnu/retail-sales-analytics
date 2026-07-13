@@ -111,6 +111,7 @@ The Python analysis reproduced and extended the key analytical themes explored t
 - Tamara Chand, Raymond Buch, and Sanjit Chand were among the highest-value customers based on profit contribution.
 - Texas was the worst-performing state by profit, followed by Ohio and Pennsylvania.
 - Monthly sales generally increased over time, with the highest monthly sales occurring in **November 2017**.
+- The West region generated the highest sales, while the South region generated the lowest.
 - Binders received the highest average discount while maintaining a positive profit margin. In contrast, Tables and Bookcases received relatively high discounts and generated negative margins.
 - Discount level alone does not fully explain profitability, suggesting that pricing, product costs, customer behaviour, and operational factors should also be considered.
 
