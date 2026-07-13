@@ -174,7 +174,7 @@ retail-sales-analytics/
 │   └── data_model.png
 │
 ├── 06_Documentation/
-│   └── Retail Sales Dashboard – Project Report.docx
+│   └── Retail Sales Dashboard – Project Report.pdf
 │
 └── README.md
 ```
